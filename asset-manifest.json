@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sketchyrhymes/static/css/main.73f5acd5.chunk.css",
+    "main.js": "/sketchyrhymes/static/js/main.e30c9dd0.chunk.js",
+    "main.js.map": "/sketchyrhymes/static/js/main.e30c9dd0.chunk.js.map",
+    "runtime~main.js": "/sketchyrhymes/static/js/runtime~main.71e00f9b.js",
+    "runtime~main.js.map": "/sketchyrhymes/static/js/runtime~main.71e00f9b.js.map",
+    "static/css/2.5bc09813.chunk.css": "/sketchyrhymes/static/css/2.5bc09813.chunk.css",
+    "static/js/2.b80ceb43.chunk.js": "/sketchyrhymes/static/js/2.b80ceb43.chunk.js",
+    "static/js/2.b80ceb43.chunk.js.map": "/sketchyrhymes/static/js/2.b80ceb43.chunk.js.map",
+    "index.html": "/sketchyrhymes/index.html",
+    "precache-manifest.a15e1a3cc61cdd16cc506c9b8ff47994.js": "/sketchyrhymes/precache-manifest.a15e1a3cc61cdd16cc506c9b8ff47994.js",
+    "service-worker.js": "/sketchyrhymes/service-worker.js",
+    "static/css/2.5bc09813.chunk.css.map": "/sketchyrhymes/static/css/2.5bc09813.chunk.css.map",
+    "static/css/main.73f5acd5.chunk.css.map": "/sketchyrhymes/static/css/main.73f5acd5.chunk.css.map",
+    "static/media/header_mob.png": "/sketchyrhymes/static/media/header_mob.216e6951.png"
+  }
+}
