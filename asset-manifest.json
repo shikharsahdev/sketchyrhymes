@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sketchyrhymes/static/css/main.73f5acd5.chunk.css",
-    "main.js": "/sketchyrhymes/static/js/main.e30c9dd0.chunk.js",
-    "main.js.map": "/sketchyrhymes/static/js/main.e30c9dd0.chunk.js.map",
-    "runtime~main.js": "/sketchyrhymes/static/js/runtime~main.71e00f9b.js",
-    "runtime~main.js.map": "/sketchyrhymes/static/js/runtime~main.71e00f9b.js.map",
-    "static/css/2.5bc09813.chunk.css": "/sketchyrhymes/static/css/2.5bc09813.chunk.css",
-    "static/js/2.b80ceb43.chunk.js": "/sketchyrhymes/static/js/2.b80ceb43.chunk.js",
-    "static/js/2.b80ceb43.chunk.js.map": "/sketchyrhymes/static/js/2.b80ceb43.chunk.js.map",
-    "index.html": "/sketchyrhymes/index.html",
-    "precache-manifest.a15e1a3cc61cdd16cc506c9b8ff47994.js": "/sketchyrhymes/precache-manifest.a15e1a3cc61cdd16cc506c9b8ff47994.js",
-    "service-worker.js": "/sketchyrhymes/service-worker.js",
-    "static/css/2.5bc09813.chunk.css.map": "/sketchyrhymes/static/css/2.5bc09813.chunk.css.map",
-    "static/css/main.73f5acd5.chunk.css.map": "/sketchyrhymes/static/css/main.73f5acd5.chunk.css.map",
-    "static/media/header_mob.png": "/sketchyrhymes/static/media/header_mob.216e6951.png"
+    "main.css": "sketchyrhym.es/static/css/main.061bf611.chunk.css",
+    "main.js": "sketchyrhym.es/static/js/main.f84a71bc.chunk.js",
+    "main.js.map": "sketchyrhym.es/static/js/main.f84a71bc.chunk.js.map",
+    "runtime~main.js": "sketchyrhym.es/static/js/runtime~main.f875e791.js",
+    "runtime~main.js.map": "sketchyrhym.es/static/js/runtime~main.f875e791.js.map",
+    "static/css/2.5bc09813.chunk.css": "sketchyrhym.es/static/css/2.5bc09813.chunk.css",
+    "static/js/2.b80ceb43.chunk.js": "sketchyrhym.es/static/js/2.b80ceb43.chunk.js",
+    "static/js/2.b80ceb43.chunk.js.map": "sketchyrhym.es/static/js/2.b80ceb43.chunk.js.map",
+    "index.html": "sketchyrhym.es/index.html",
+    "precache-manifest.0df229e11e6b8406ab07a0600f984daf.js": "sketchyrhym.es/precache-manifest.0df229e11e6b8406ab07a0600f984daf.js",
+    "service-worker.js": "sketchyrhym.es/service-worker.js",
+    "static/css/2.5bc09813.chunk.css.map": "sketchyrhym.es/static/css/2.5bc09813.chunk.css.map",
+    "static/css/main.061bf611.chunk.css.map": "sketchyrhym.es/static/css/main.061bf611.chunk.css.map",
+    "static/media/header_mob.png": "sketchyrhym.es/static/media/header_mob.216e6951.png"
   }
 }
