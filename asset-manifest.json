@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "sketchyrhym.es/static/css/main.061bf611.chunk.css",
-    "main.js": "sketchyrhym.es/static/js/main.f84a71bc.chunk.js",
-    "main.js.map": "sketchyrhym.es/static/js/main.f84a71bc.chunk.js.map",
-    "runtime~main.js": "sketchyrhym.es/static/js/runtime~main.f875e791.js",
-    "runtime~main.js.map": "sketchyrhym.es/static/js/runtime~main.f875e791.js.map",
-    "static/css/2.5bc09813.chunk.css": "sketchyrhym.es/static/css/2.5bc09813.chunk.css",
-    "static/js/2.b80ceb43.chunk.js": "sketchyrhym.es/static/js/2.b80ceb43.chunk.js",
-    "static/js/2.b80ceb43.chunk.js.map": "sketchyrhym.es/static/js/2.b80ceb43.chunk.js.map",
-    "index.html": "sketchyrhym.es/index.html",
-    "precache-manifest.0df229e11e6b8406ab07a0600f984daf.js": "sketchyrhym.es/precache-manifest.0df229e11e6b8406ab07a0600f984daf.js",
-    "service-worker.js": "sketchyrhym.es/service-worker.js",
-    "static/css/2.5bc09813.chunk.css.map": "sketchyrhym.es/static/css/2.5bc09813.chunk.css.map",
-    "static/css/main.061bf611.chunk.css.map": "sketchyrhym.es/static/css/main.061bf611.chunk.css.map",
-    "static/media/header_mob.png": "sketchyrhym.es/static/media/header_mob.216e6951.png"
+    "main.css": "/static/css/main.061bf611.chunk.css",
+    "main.js": "/static/js/main.b1fcd1d9.chunk.js",
+    "main.js.map": "/static/js/main.b1fcd1d9.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.84fc7b6e.js",
+    "runtime~main.js.map": "/static/js/runtime~main.84fc7b6e.js.map",
+    "static/css/2.5bc09813.chunk.css": "/static/css/2.5bc09813.chunk.css",
+    "static/js/2.b80ceb43.chunk.js": "/static/js/2.b80ceb43.chunk.js",
+    "static/js/2.b80ceb43.chunk.js.map": "/static/js/2.b80ceb43.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3c191b5857a06c14fea4631ef759f189.js": "/precache-manifest.3c191b5857a06c14fea4631ef759f189.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.5bc09813.chunk.css.map": "/static/css/2.5bc09813.chunk.css.map",
+    "static/css/main.061bf611.chunk.css.map": "/static/css/main.061bf611.chunk.css.map",
+    "static/media/header_mob.png": "/static/media/header_mob.216e6951.png"
   }
 }
